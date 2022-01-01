@@ -3,7 +3,7 @@
 
 ## Overview of Project
 
-### Purpose
+### Louise has a play called 'Fever'that is close to its fundraising goal. To assist Louise in her launch parameters additional analysis was done on other plays to help in her success. The data will show how launch date and funding goals can effect the outcomes of different campaigns in the plays category.
 
 ## Analysis and Challenges
 
