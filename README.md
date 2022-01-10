@@ -3,13 +3,15 @@
 
 ### Overview of Project
 
-####        Louise has a play called 'Fever' that is close to its fundraising goal. To assist Louise in her launch parameters additional analysis was done on other plays to help in her success. The data will show how launch date and funding goals can effect the outcomes of different campaigns in the plays category.
+#### Louise has a play that is close to its fundraising goal. To assist her in a successful launch additional analysis was done on other Plays. The analysis will show how launch dates and funding goals can effect the outcomes of different campaigns that fall in the Plays category.
+
 
 ### Analysis and Challenges
 
+#### Kickstarter campaign data was used in this report. Five formulated columns were added to the raw data in order to extract the data points need for analysis (Columns with formulas have a 'blue' fill in their header). Pivot tables and charts were created to present a clear picture of those points of interest for the Client.  
 
+#### There weren't any challenges presented in the manipulation of the data. But lack of familiarity with writing formulas, creating and using pivot tables and charts, in excel, could present a challenge in manipulating the data for your needs. Challenges could be presented by way of outliers that can skew the data (ie. campaign goals of $1.00 in the success category) and in the limitations of data should the Client require other knowledge for their success that isn't represented in your data. 
 
-#### Challenges and Difficulties Encountered
 
 ### Results
 
