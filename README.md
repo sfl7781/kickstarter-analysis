@@ -8,7 +8,9 @@
 
 ### Analysis and Challenges
 
-#### Kickstarter campaign data was used in this report. Five formulated columns were added to the raw data in order to extract the data points needed for analysis (columns with formulas have a 'blue' fill in their header). Pivot tables and charts were created to present a clear picture of those points of interest for the Client.  
+#### Kickstarter campaign data was used in this report. Five formulated columns were added to the raw data in order to extract the data points needed for analysis (columns with formulas have a 'blue' fill in their header). A manually formulated and pivot tables were created along with charts to present a clear picture of those points of interest for the Client. Similar to the one below.
+
+![Rawgoalvoutcome](https://user-images.githubusercontent.com/95381303/148710632-a143900d-608c-4ebb-b180-923484441a97.png)
 
 #### There weren't any challenges presented in the manipulation of the data. But lack of familiarity with writing formulas, creating and using pivot tables and charts, in excel, could present a challenge in manipulating the data for your needs. Although, challenges could be presented by way of outliers that can skew the data (ie. campaign goals of $1.00 in the success category) and in the limitations of data should the Client require other knowledge for their success that isn't represented in your data (ie. more Plays from other countries). 
 
