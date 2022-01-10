@@ -24,10 +24,13 @@
 - The most successful Plays had goals below $5000 or between $35,000-$40,000.
 - Those most likely to fail had goals over $50,000 with goals at $25,000 to $30,000 coming in at a close 2nd.
 
-- What are some limitations of this dataset?
+#### Limitations of this dataset
+- Data seemed to be heavily derived from the US and GB; so a comparable of successful launches in other countries is very limited.
+- Currency in this analysis is blanketing all countries with the US$ so successful launches based on goals and donationa is skewed since not all currency is equal to the US$.
+- Genre of the Plays is not in the dataset and could offer a drill down on specifics to which type of Plays are most successful in Theater.
 
-- What are some other possible tables and/or graphs that we could create?
-
+#### Other possible tables and/or graphs
+- 
 
 
 
