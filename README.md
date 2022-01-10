@@ -10,7 +10,7 @@
 #### Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95381303/147862185-43103c34-3946-48fa-aba6-219fea73fdb0.png)
 #### Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95381303/147862166-263a1ce8-b853-4ef8-8218-ed2c1b72678b.png)
+![Outcomes_vs_Goals2](https://user-images.githubusercontent.com/95381303/148707828-05b57bad-90cb-4479-ac46-f65e2fee5b4d.png)
 #### Challenges and Difficulties Encountered
 
 ### Results
